@@ -5,9 +5,9 @@ export const colorPalette = css`
     --white: #fff;
     --black: #212121;
     --grey: #9e9e9e;
-    --red: #f44336;
+    --red: #f55656;
     --blue: #2196f3;
-    --green: #4caf50;
+    --green: #62c466;
     --coral: #f9b4ab;
     --beige: #fdebd3;
     --dark-teal: #264e70;
